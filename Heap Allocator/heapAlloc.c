@@ -1,37 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-//
-// Copyright 2019 Jim Skrentny.
-// Posting or sharing this file is prohibited, including any changes/additions.
-//
-////////////////////////////////////////////////////////////////////////////////
-// Main File:        (heapAlloc.c)
-// This File:        (heapAlloc.c)
-// Other Files:      (NONE)
-// Semester:         CS 354 Fall 2019
-//
-// Author:           (Yijun Cheng)
-// Email:            (cheng229@wisc.edu)
-// CS Login:         (yijunc)
-//
-/////////////////////////// OTHER SOURCES OF HELP //////////////////////////////
-//                   fully acknowledge and credit all sources of help,
-//                   other than Instructors and TAs.
-//
-// Persons:          NONE
-//
-//
-// Online sources:  NONE
-//
-//
-////////////////////////////////////////////////////////////////////////////////
-
-///////////////////////////////////////////////////////////////////////////////
-//
-// Copyright 2019 Jim Skrentny
-// Posting or sharing this file is prohibited, including any changes/additions.
-//
-///////////////////////////////////////////////////////////////////////////////
-
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/stat.h>
